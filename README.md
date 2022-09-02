@@ -2,7 +2,7 @@
 One json file containing waypoint presets for various maps, automatically fetched from Rigs of Rods to use with the AI.
 
 # Contribute
-Open survey map (TAB) and use right mouse button to set waypoints. Use middle mouse button to remove them. Drag an existing waypoint with left mouse mouse button to re-adjust it.
+Open survey map (TAB) and use right mouse button to set waypoints. Use middle mouse button to remove them. Drag an existing waypoint with left mouse button to re-adjust it.
 
 ![kk1](https://user-images.githubusercontent.com/2660424/186714251-5cdf1618-9793-4591-95d8-e6da3d442e41.png)
 
