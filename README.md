@@ -15,3 +15,18 @@ Once you are done, click the `Waypoints` header and hit the `Export` button. A n
 ![kk3](https://user-images.githubusercontent.com/2660424/186715613-d282c0db-cbd1-49ae-bf37-e4d5a0360eab.png)
 
 Open an issue in this repository and provide the terrain name, desired preset name and waypoints list. Pull requests are welcomed also, the json file is very simple structured.
+
+# Maps with waypoint presets
+f1_testtrack 0.8  
+Bajarama_V2  
+Bajarama_V2 Snow  
+Penguinville  
+NeoQueretaro  
+Auriga Proving Grounds  
+Auriga Proving Grounds (Snow)  
+N-Labs  
+Minima  
+Small Island  
+Wild West  
+Simple Test Terrain  
+Simple Test Terrain Water  
