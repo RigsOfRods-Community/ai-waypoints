@@ -30,3 +30,4 @@ Small Island
 Wild West  
 Simple Test Terrain  
 Simple Test Terrain Water  
+La Paz  
