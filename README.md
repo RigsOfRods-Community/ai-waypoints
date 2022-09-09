@@ -31,3 +31,5 @@ Wild West
 Simple Test Terrain  
 Simple Test Terrain Water  
 La Paz  
+Sunset Mesa  
+Sunset Mesa Storm  
