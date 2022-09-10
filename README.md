@@ -33,3 +33,5 @@ Simple Test Terrain Water
 La Paz  
 Sunset Mesa  
 Sunset Mesa Storm  
+Verniocity  
+Verniocity FPS  
