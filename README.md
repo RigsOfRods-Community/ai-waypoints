@@ -32,3 +32,5 @@ Verniocity FPS
 Semois  
 CityWorld  
 Outback  
+RaceMax  
+RaceMax Reverse  
