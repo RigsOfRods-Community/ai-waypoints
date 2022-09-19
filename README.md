@@ -4,11 +4,9 @@ One json file containing waypoint presets for various maps, automatically fetche
 # Contribute
 Open survey map (TAB) and use right mouse button to set waypoints. Use middle mouse button to remove them. Drag an existing waypoint with left mouse button to re-adjust it.
 
-![kk1](https://user-images.githubusercontent.com/2660424/186714251-5cdf1618-9793-4591-95d8-e6da3d442e41.png)
+![kk](https://user-images.githubusercontent.com/2660424/190934461-04cec4e0-3bd3-4a0b-94ef-f0b006e5ac16.png)
 
 Once you are done, click the `Waypoints` header and hit the `Export` button. A notififation will appear and the waypoints will be saved in `RoR.log`.
-
-![kk3](https://user-images.githubusercontent.com/2660424/186715613-d282c0db-cbd1-49ae-bf37-e4d5a0360eab.png)
 
 Open an issue in this repository and provide the terrain name, desired preset name and waypoints list. Pull requests are welcomed also, the json file is very simple structured.
 
