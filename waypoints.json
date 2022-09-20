@@ -446,7 +446,7 @@
     },
 
     {
-        "terrain":"CM0.5.terrn2",
+        "terrain":"CM.terrn2",
         "preset":"J roam",
         "waypoints":
         [
