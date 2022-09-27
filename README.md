@@ -6,7 +6,7 @@ Open survey map (TAB) and use right mouse button to set waypoints. Use middle mo
 
 ![kk](https://user-images.githubusercontent.com/2660424/191098122-243a5082-5522-4f06-be8e-29f7848d6f0c.png)
 
-Once you are done, click the `Waypoints` header and hit the `Export` button. A notififation will appear and the waypoints will be saved in `RoR.log`.
+Once done, press the `Start` button to test the path. Finally click the `Waypoints` header and press the `Export` button. A notififation will appear and the waypoints will be saved in `RoR.log`.
 
 Open an issue in this repository and provide the terrain name, desired preset name and waypoints list. Pull requests are welcomed also, the json file is very simple structured.
 
