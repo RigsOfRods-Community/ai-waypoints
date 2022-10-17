@@ -36,3 +36,5 @@ RaceMax
 RaceMax Reverse  
 Greece  
 GreeceFPS  
+Airfield 51 - GP Track  
+Airfield 51 - Kart Track  
