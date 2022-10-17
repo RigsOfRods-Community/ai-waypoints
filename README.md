@@ -10,7 +10,7 @@ Once done, press the `Start` button to test the path. Finally click the `Waypoin
 
 Open an issue in this repository and provide the terrain name, desired preset name and waypoints list. Pull requests are welcomed also, the json file is very simple structured.
 
-# Maps with waypoint presets
+# Terrains with waypoint presets
 f1_testtrack 0.8  
 Bajarama_V2  
 Bajarama_V2 Snow  
