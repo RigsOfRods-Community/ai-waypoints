@@ -10,6 +10,9 @@ Once done, press the `Start` button to test the path. Finally click the `Waypoin
 
 Open an issue in this repository and provide the terrain name, desired preset name and waypoints list. Pull requests are welcomed also, the json file is very simple structured.
 
+# Load local file
+Put `waypoints.json` file inside `Documents\My Games\Rigs of Rods\savegames` on Windows or `~/.rigsofrods/savegames` on Linux. Rigs of Rods will load that instead of fetching from github.
+
 # Terrains with waypoint presets
 f1_testtrack 0.8  
 Bajarama_V2  
