@@ -44,7 +44,8 @@
             "Rockton Country 18 Port",
             "Rockton Country 18 Quarry",
             "Rockton Country 18 Rockton City",
-            "FlatMap 2013"
+            "FlatMap 2013",
+            "RockFalls Raceway"
         ]
     },
 
@@ -8172,6 +8173,15 @@
             [517.167053, 0.378554, 49.036774],
             [535.735413, 0.420202, 48.880505],
             [553.615112, 0.420200, 48.870361]
+        ]
+    },
+    {
+        "terrain":"RockFallsRaceway1.terrn2",
+        "preset":"1/4 mile drag",
+        "waypoints":
+        [
+            [81.253021, 2.620827, 100.984283],
+            [591.246948, 2.610416, 175.471909]
         ]
     }
 ]
