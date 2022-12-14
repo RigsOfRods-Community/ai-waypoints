@@ -8,7 +8,7 @@ Open survey map (TAB) and use right mouse button to set waypoints. Use middle mo
 
 Once done, press the `Start` button to test the path. Finally click the `Waypoints` header and press the `Export` button. A notififation will appear and the waypoints will be saved in `RoR.log`.
 
-Open an issue in this repository and provide the terrain name, desired preset name and waypoints list. Pull requests are welcomed also, the json file is very simple structured.
+Open an issue in this repository and provide the waypoints list and desired preset name. Pull requests are welcomed also, the json file is very simple structured.
 
 # Load local file
 Put `waypoints.json` inside `Documents\My Games\Rigs of Rods\savegames` on Windows or `~/.rigsofrods/savegames` on Linux. Rigs of Rods will load that file instead of fetching from GitHub.
