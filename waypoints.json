@@ -10091,7 +10091,17 @@
 
     {
         "terrain":"CM.terrn2",
-        "preset":"Center Ramp Crash",
+        "preset":"Center Ramp",
+        "waypoints":
+        [
+            [265.596985, 0.100000, 499.421204],
+            [265.596985, 0.100000, 124.750999]
+        ]
+    },
+
+    {
+        "terrain":"CM.terrn2",
+        "preset":"Center Ramp (Crash Mode)",
         "waypoints":
         [
             [265.597,    0.100,  387.206],
